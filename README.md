@@ -1,8 +1,6 @@
-# Kashif Mehdi
-## Data Scientist Portfolio
+# Hi there, I'm Kashif Mehdi! 👋
+## Welcome to My Portfolio 📊
 
-### About Me
-I am a recent graduate with a bachelor's degree in computer science, specializing in software engineering and data science. I am proficient in programming languages such as Python and R, and have experience with machine learning algorithms and data analysis tools like TensorFlow and Pandas. I am eager to apply my knowledge and skills to solve real-world problems and contribute to a forward-thinking team.
 
 ### 🛠️ Skills
 - **Programming Languages**: Python, R, C++, SQL, MongoDB
@@ -40,4 +38,4 @@ I am a recent graduate with a bachelor's degree in computer science, specializin
 ### 📧 Contact
 - **Email**: kashifmehdi53@gmail.com
 - **Phone**: 7599080098
-- **LinkedIn**: [linkedin.com/in/kashifmehdi](https://www.linkedin.com/in/kashifmehdi)
+
