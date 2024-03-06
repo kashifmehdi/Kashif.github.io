@@ -1,41 +1,16 @@
-# Hi there, I'm Kashif Mehdi! 👋
-## Welcome to My Portfolio 📊
+# Kashif Mehdi - Data Science Portfolio
 
+<img src="assets/images/banner.png" alt="Data Science Banner" width="800">
 
-### 🛠️ Skills
-- **Programming Languages**: Python, R, C++, SQL, MongoDB
-- **Tools**: VsCode, R studio, Jupyter, Git
-- **Data Analysis**: Data cleaning and preprocessing, data visualization (Matplotlib, Seaborn), data transformation, proficiency with data analysis tools (Excel, SQL)
-- **Data Modeling**: Machine learning algorithms (Linear Regression, Decision Trees, SVM, Clustering), Deep learning (CNN, RNN, Transformers)
-- **Modeling Tools**: TensorFlow, PyTorch, Scikit-learn
+Welcome to my data science portfolio! I'm a passionate data scientist with a knack for transforming raw data into valuable insights. Explore my portfolio to learn more about my projects, skills, and experiences in the field of data science.
 
-### 🚀 Experience
-#### Project Trainee, Bhabha Atomic Research Centre (BARC)
-*February 2023 - May 2023*
-- Contributed to several open-source deep learning and image classification projects
-- Engineered new models and algorithms for object detection and recognition
-- Optimized the performance and efficiency of existing models
+## Explore
 
-#### Python Developer, CodeQuest
-*February 2021 - March 2021*
-- Completed a comprehensive Python training program
-- Acquired deep understanding of object-oriented programming (OOP) concepts in Python
+- [About Me](/about/)
+- [Projects](/projects/)
+- [Skills](/skills/)
+- [Contact](/contact/)
 
-### 🌟 Projects
-#### Diabetic Retinopathy Detection
-*November 2022 - May 2023*
-- Developed a deep learning model aimed at detecting diabetic retinopathy using EfficientNet-b3 and InceptionV3 models
+## Let's Connect!
 
-#### Cityscapes Project
-*March 2023*
-- Performed semantic segmentation of urban street scenes using the U-Net convolutional neural network architecture
-
-### 🎓 Education
-#### Bachelor of Technology in Computer Science
-*Baba Ghulam Shah Badshah University, Rajouri, J&K*
-*2023, GPA: 8.3*
-
-### 📧 Contact
-- **Email**: kashifmehdi53@gmail.com
-- **Phone**: 7599080098
-
+I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss data-driven solutions. Feel free to reach out to me through the [Contact](/contact/) page.
