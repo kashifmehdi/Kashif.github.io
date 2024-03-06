@@ -52,7 +52,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 
 # Build Settings
-remote_theme: pages-themes/minimal-mistakes@v4.24.0
+remote_theme: mistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
