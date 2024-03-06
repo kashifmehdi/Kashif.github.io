@@ -1,0 +1,100 @@
+---
+---
+
+// Import Minimal Theme styles
+@import "{{ site.theme }}";
+
+// Custom Styles
+
+// Variables
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$text-color: #212529;
+$background-color: #f8f9fa;
+
+// Global Styles
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: $text-color;
+  background-color: $background-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+a {
+  color: $primary-color;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: darken($primary-color, 10%);
+    text-decoration: none;
+  }
+}
+
+// Header Styles
+.header {
+  background-color: $primary-color;
+  color: #fff;
+  padding: 2rem 1rem;
+
+  .header-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+
+    .logo {
+      max-width: 150px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+    }
+
+    .site-title {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .site-description {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+// Section Styles
+.section {
+  padding: 3rem 1rem;
+
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .section-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+// Footer Styles
+.footer {
+  background-color: $secondary-color;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+
+  .footer-content {
+    font-size: 0.9rem;
+
+    a {
+      color: #fff;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: darken(#fff, 20%);
+      }
+    }
+  }
+}
