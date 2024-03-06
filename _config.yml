@@ -1,11 +1,35 @@
-title: Kashif Mehdi
+# Site Settings
+title: Kashif Mehdi | Data Science Portfolio
 logo: "/images/Profile.png"
 description: >
-  I am a recent graduate with a bachelor's degree in computer science, specializing in software engineering and data science.
-  <br><br>
-  <a href="www.linkedin.com/in/kashifmehdi">View My LinkedIn Profile</a> 
-  
+  I am a passionate data scientist with a knack for transforming raw data into valuable insights.
+  Explore my portfolio to discover my projects, skills, and achievements.
+footer_content: >
+  <a href="https://www.linkedin.com/in/kashifmehdi" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/your_username" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+
+# Style
+minimal_skin: dark
+minimal_skin_flat: true
+minimal_skin_icons: true
+
+# Fonts
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Roboto Mono"
+    weights: "400,400i,700,700i"
+
+# Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google-analytics: UA-305168520-1
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Analytics
+google_analytics: UA-305168520-1
