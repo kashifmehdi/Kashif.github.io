@@ -1,4 +1,4 @@
-# Site Settings
+i# Site Settings
 title: Kashif Mehdi | Data Science Portfolio
 logo: "/images/Profile.png"
 description: >
@@ -9,7 +9,7 @@ footer_content: >
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/your_username" target="_blank">
+  <a href="https://github.com/kashifmehdi" target="_blank">
     <i class="fab fa-github"></i> GitHub
   </a>
 
