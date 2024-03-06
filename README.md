@@ -1,6 +1,6 @@
 # Kashif Mehdi - Data Science Portfolio
 
-<img src="assets/images/banner.png" alt="Data Science Banner" width="800">
+<img src="assets/images/banner.jpg" alt="Data Science Banner" width="800">
 
 Welcome to my data science portfolio! I'm a passionate data scientist with a knack for transforming raw data into valuable insights. Explore my portfolio to learn more about my projects, skills, and experiences in the field of data science.
 
