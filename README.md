@@ -1,4 +1,3 @@
-# Kashif Mehdi - Data Science Portfolio
 
 <img src="assets/images/banner.jpg" alt="Data Science Banner" width="800">
 
