@@ -1,7 +1,24 @@
 title: Kashif Mehdi | Data Science Enthusiast
-url: "https://kashifmehdi.github.io" # Replace with your GitHub username
-logo: "/assets/images/Profile Pic.png" # Update the path to your logo image
+url: "https://kashifmehdi.github.io" 
+repository: "kashifmehdi/kashifmehdi.github.io"
+logo: "/assets/images/Profile Pic.png"
 
+# Site Author
+author:
+  name: "Kashif Mehdi"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am a recent graduate with a bachelor's degree in computer science, specializing in software engineering and data science."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:kashifmehdi53@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kashifmehdi"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/kashifmehdi"
+      
 # Navigation
 nav_links:
   - title: About
@@ -34,13 +51,24 @@ google_fonts:
   - name: "Roboto Mono"
     weights: "400,400i,700,700i"
 
-# Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+# Build Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  
+# Site Footer
+footer:
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-Linkedin"
+      url: "https://www.linkedin.com/in/kashifmehdi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kashifmehdi"
+
 
 # Analytics
 google_analytics: UA-305168520-1
