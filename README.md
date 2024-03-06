@@ -6,10 +6,10 @@ Welcome to my data science portfolio! I'm a passionate data scientist with a kna
 
 ## Explore
 
-- [About Me](/about/)
-- [Projects](/projects/)
-- [Skills](/skills/)
-- [Contact](/contact/)
+- [About Me](/about/index.md)
+- [Projects](/projects/index.md)
+- [Skills](/skills/index.md)
+- [Contact](/contact/index.md)
 
 ## Let's Connect!
 
