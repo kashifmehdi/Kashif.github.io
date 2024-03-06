@@ -13,4 +13,4 @@ Welcome to my data science portfolio! I'm a passionate data scientist with a kna
 
 ## Let's Connect!
 
-I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss data-driven solutions. Feel free to reach out to me through the [Contact](/contact/) page.
+I'm always eager to connect with fellow data enthusiasts, collaborate on exciting projects, or discuss data-driven solutions. Feel free to reach out to me.
