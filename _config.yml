@@ -2,9 +2,6 @@
 title: Kashif Mehdi | Data Science Portfolio
 url: "https://your-github-username.github.io" # Replace with your GitHub username
 logo: "/assets/images/logo.png" # Update the path to your logo image
-description: >
-  I am a passionate data scientist with a knack for transforming raw data into valuable insights.
-  Explore my portfolio to discover my projects, skills, and achievements.
 
 # Navigation
 nav_links:
@@ -23,11 +20,8 @@ social_links:
     url: https://www.linkedin.com/in/kashifmehdi
     icon: fab fa-linkedin
   - title: GitHub
-    url: https://github.com/your-github-username
+    url: https://github.com/kashifmehdi
     icon: fab fa-github
-  - title: Twitter
-    url: https://twitter.com/your-twitter-handle
-    icon: fab fa-twitter
 
 # Style
 minimal_skin: dark
