@@ -7,6 +7,4 @@ My journey in the field of data science began during my bachelor's degree in com
 
 Driven by an insatiable curiosity and a desire to continuously learn and grow, I am always eager to take on new challenges and explore innovative solutions. I believe in the power of data-driven decision-making and am committed to leveraging my expertise to create positive impacts in various domains.
 
-When I'm not immersed in data analysis or coding, you can find me [insert your hobbies or interests]. I am passionate about [mention your passions or causes you care about].
-
 Feel free to explore my portfolio to learn more about my projects, skills, and achievements. I'm always excited to connect with fellow data enthusiasts, collaborate on exciting projects, or simply indulge in some data-driven discussions.
